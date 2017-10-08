@@ -1,0 +1,1 @@
+1. "Distroless" images contain only your application and its runtime dependencies. [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless)
