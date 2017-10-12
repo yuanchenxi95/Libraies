@@ -4,5 +4,8 @@ Example:
 3. Web page PDF rendering done right. Microservice for rendering receipts, invoices, or any content. Packaged to an easy API. [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api)
 4. [freeCodeCamp/mail-for-good](https://github.com/freeCodeCamp/mail-for-good)
 
+Useful components:
+1. Admin template [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE)
+
 Libraries:
 1. A React utility belt for function components and higher-order components.[Recompose](https://github.com/acdlite/recompose)
