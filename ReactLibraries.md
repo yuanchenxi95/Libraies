@@ -11,3 +11,4 @@ Libraries:
 1. A React utility belt for function components and higher-order components.[Recompose](https://github.com/acdlite/recompose)
 2. [react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap) How to wrap component
 3. [gorangajic/react-icons](https://github.com/gorangajic/react-icons)
+4. Publish files to a gh-pages branch on GitHub [gh-pages](https://github.com/tschaub/gh-pages)
