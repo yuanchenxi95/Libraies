@@ -3,6 +3,7 @@ Example:
 2. Drag-n-Drop Email Editor Component for React.js [react-email-editor](https://github.com/unroll-io/react-email-editor)
 3. Web page PDF rendering done right. Microservice for rendering receipts, invoices, or any content. Packaged to an easy API. [url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api)
 4. [freeCodeCamp/mail-for-good](https://github.com/freeCodeCamp/mail-for-good)
+5. React redux firebase [react-gif-search-engine](https://github.com/tightenco/react-gif-search-engine)
 
 Useful components:
 1. Admin template [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE)
