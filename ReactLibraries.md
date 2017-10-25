@@ -13,3 +13,4 @@ Libraries:
 2. [react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap) How to wrap component
 3. [gorangajic/react-icons](https://github.com/gorangajic/react-icons)
 4. Publish files to a gh-pages branch on GitHub [gh-pages](https://github.com/tschaub/gh-pages)
+5 Multiple file upload plugin with image previews, drag and drop, progress bars. [fine-uploader](https://github.com/FineUploader/fine-uploader)
