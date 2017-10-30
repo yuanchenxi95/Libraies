@@ -15,3 +15,4 @@ Libraries:
 4. Publish files to a gh-pages branch on GitHub [gh-pages](https://github.com/tschaub/gh-pages)
 5. Multiple file upload plugin with image previews, drag and drop, progress bars. [fine-uploader](https://github.com/FineUploader/fine-uploader)
 6. High performance <canvas> rendering for React components [react-canvas](https://github.com/Flipboard/react-canvas)
+7. HEML is an open source markup language for building responsive email. [SparkPost/heml](https://github.com/SparkPost/heml)
