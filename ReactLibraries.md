@@ -16,3 +16,7 @@ Libraries:
 5. Multiple file upload plugin with image previews, drag and drop, progress bars. [fine-uploader](https://github.com/FineUploader/fine-uploader)
 6. High performance <canvas> rendering for React components [react-canvas](https://github.com/Flipboard/react-canvas)
 7. HEML is an open source markup language for building responsive email. [SparkPost/heml](https://github.com/SparkPost/heml)
+
+Fonts:
+1. Smart webfont compression and format conversion tool [aui/font-spider](https://github.com/aui/font-spider)
+2. Minify font seamlessly [ecomfe/fontmin](https://github.com/ecomfe/fontmin)
