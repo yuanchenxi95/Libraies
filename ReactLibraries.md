@@ -17,6 +17,9 @@ Libraries:
 6. High performance <canvas> rendering for React components [react-canvas](https://github.com/Flipboard/react-canvas)
 7. HEML is an open source markup language for building responsive email. [SparkPost/heml](https://github.com/SparkPost/heml)
 
+Performance:
+1. Selector library for Redux [reactjs/reselect](https://github.com/reactjs/reselect)
+
 Fonts:
 1. Smart webfont compression and format conversion tool [aui/font-spider](https://github.com/aui/font-spider)
 2. Minify font seamlessly [ecomfe/fontmin](https://github.com/ecomfe/fontmin)
