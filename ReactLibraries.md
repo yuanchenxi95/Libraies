@@ -20,3 +20,6 @@ Libraries:
 Fonts:
 1. Smart webfont compression and format conversion tool [aui/font-spider](https://github.com/aui/font-spider)
 2. Minify font seamlessly [ecomfe/fontmin](https://github.com/ecomfe/fontmin)
+
+Code Style Guide:
+1. React patterns, techniques, tips and tricks [vasanthk/react-bits](https://github.com/vasanthk/react-bits)
