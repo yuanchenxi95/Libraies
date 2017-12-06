@@ -30,6 +30,9 @@ Style:
 Code Style Guide:
 1. React patterns, techniques, tips and tricks [vasanthk/react-bits](https://github.com/vasanthk/react-bits)
 
+Validation:
+1. A simple and composable way to validate data in JavaScript.[ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct)
+
 Redux:
 1. A set of standard actions and reducers for Redux CRUD Applications [Versent/redux-crud](https://github.com/Versent/redux-crud)
 2. [brillout/awesome-redux](https://github.com/brillout/awesome-redux)
