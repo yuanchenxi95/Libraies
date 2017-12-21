@@ -36,3 +36,6 @@ Validation:
 Redux:
 1. A set of standard actions and reducers for Redux CRUD Applications [Versent/redux-crud](https://github.com/Versent/redux-crud)
 2. [brillout/awesome-redux](https://github.com/brillout/awesome-redux)
+
+Sketch:
+1. render React components to Sketch [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp)
