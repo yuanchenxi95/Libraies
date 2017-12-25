@@ -42,3 +42,4 @@ Sketch:
 
 Design:
 1. React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders. [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader)
+2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
