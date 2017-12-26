@@ -43,3 +43,7 @@ Sketch:
 Design:
 1. React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders. [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader)
 2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
+
+Server Sider Rendering:
+1. Framework for server-rendered or statically-exported React apps [zeit/next.js](https://github.com/zeit/next.js)
+2. Create Next.js apps in one command [segmentio/create-next-app](https://github.com/segmentio/create-next-app)
