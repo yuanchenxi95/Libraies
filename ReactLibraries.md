@@ -43,6 +43,7 @@ Sketch:
 Design:
 1. React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders. [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader)
 2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
+3. The next open source file uploader for web browsers [transloadit/uppy](https://github.com/transloadit/uppy)
 
 Server Sider Rendering:
 1. Framework for server-rendered or statically-exported React apps [zeit/next.js](https://github.com/zeit/next.js)
