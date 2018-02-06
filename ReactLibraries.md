@@ -48,6 +48,9 @@ Design:
 2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
 3. The next open source file uploader for web browsers [transloadit/uppy](https://github.com/transloadit/uppy)
 
+React Component Syntax Omptimization:
+1. Tiny helper around Reacts new context API [drcmda/react-contextual](https://github.com/drcmda/react-contextual)
+
 Server Sider Rendering:
 1. Framework for server-rendered or statically-exported React apps [zeit/next.js](https://github.com/zeit/next.js)
 2. Create Next.js apps in one command [segmentio/create-next-app](https://github.com/segmentio/create-next-app)
