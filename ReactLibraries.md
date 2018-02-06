@@ -38,6 +38,7 @@ Validation:
 Redux:
 1. A set of standard actions and reducers for Redux CRUD Applications [Versent/redux-crud](https://github.com/Versent/redux-crud)
 2. [brillout/awesome-redux](https://github.com/brillout/awesome-redux)
+3. Create the next immutable state by mutating the current one [mweststrate/immer](https://github.com/mweststrate/immer)
 
 Sketch:
 1. render React components to Sketch [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp)
