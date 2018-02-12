@@ -47,6 +47,7 @@ Design:
 1. React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders. [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader)
 2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
 3. The next open source file uploader for web browsers [transloadit/uppy](https://github.com/transloadit/uppy)
+4. Medium.com style image zoom for React [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
 
 React Component Syntax Omptimization:
 1. Tiny helper around Reacts new context API [drcmda/react-contextual](https://github.com/drcmda/react-contextual)
