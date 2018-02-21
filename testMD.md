@@ -92,7 +92,7 @@ import HomePage from '../HomePage';
 + import { MOVIE_LIST_URI } from "./uriConstants";
 ```
 
-```jsdiff
+```js diff
         <div>
             <div className="container">
                 <Switch>
