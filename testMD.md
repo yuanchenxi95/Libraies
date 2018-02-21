@@ -93,14 +93,14 @@ import HomePage from '../HomePage';
 ```
 
 ```diff
-        <div>
-            <div className="container">
-                <Switch>
-+                    <Route key={MOVIE_LIST_URI} path={MOVIE_LIST_URI} component={MovieList}/>
-                    <Route key="any" path="*" component={HomePage}/>
-                </Switch>
-            </div>
-        </div>
+<div>
+    <div className="container">
+        <Switch>
++            <Route key={MOVIE_LIST_URI} path={MOVIE_LIST_URI} component={MovieList}/>
+            <Route key="any" path="*" component={HomePage}/>
+        </Switch>
+    </div>
+</div>
 
 ```
 
