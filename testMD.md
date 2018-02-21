@@ -31,7 +31,7 @@ To add new features, you should only add or edit the js files in directory *./sr
 
 - Create a js file in `./src/containers`, use MovieList.js as the boilerplate.
 
-
+```js
     import * as React from 'react';
     import { axios, } from '../api/_axios';
     
@@ -78,7 +78,7 @@ To add new features, you should only add or edit the js files in directory *./sr
     }
     
     export default MovieList;
-    
+``` 
 
 - add the uri constant to ./src/containers/routesContainer/uriConstants
 ` export const MOVIE_LIST_URI = '/movie/list';`
