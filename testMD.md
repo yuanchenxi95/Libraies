@@ -1,4 +1,3 @@
-
 ## react-front
 
 Create React apps with webpack
@@ -94,3 +93,17 @@ import HomePage from '../HomePage';
 ```
 
 ```js
+<div>
+            <div className="container">
+                <Switch>
++                    <Route key={MOVIE_LIST_URI} path={MOVIE_LIST_URI} component={MovieList}/>
+                    <Route key="any" path="*" component={HomePage}/>
+                </Switch>
+            </div>
+        </div>
+
+```
+
+
+
+
