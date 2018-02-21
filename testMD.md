@@ -200,7 +200,3 @@ import HomePage from '../HomePage';
         </div>
 
 ```
-
-
-
-
