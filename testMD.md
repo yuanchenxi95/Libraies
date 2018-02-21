@@ -92,8 +92,8 @@ import HomePage from '../HomePage';
 + import { MOVIE_LIST_URI } from "./uriConstants";
 ```
 
-```js
-<div>
+```jsdiff
+        <div>
             <div className="container">
                 <Switch>
 +                    <Route key={MOVIE_LIST_URI} path={MOVIE_LIST_URI} component={MovieList}/>
