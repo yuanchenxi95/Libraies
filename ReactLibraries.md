@@ -57,3 +57,6 @@ React Component Syntax Omptimization:
 Server Sider Rendering:
 1. Framework for server-rendered or statically-exported React apps [zeit/next.js](https://github.com/zeit/next.js)
 2. Create Next.js apps in one command [segmentio/create-next-app](https://github.com/segmentio/create-next-app)
+
+Best Practice:
+1. [Developing React Redux Apps In Salesforce’s Visualforce](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app7fe0b8943d0f)
