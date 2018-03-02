@@ -7,6 +7,7 @@ Example:
 6. Express, MySQL, React/Redux, NodeJs Application Boilerplate [Bikranshu/express-react-boilerplate](https://github.com/Bikranshu/express-react-boilerplate)
 7. Create and share beautiful images of your source code [dawnlabs/carbon](https://github.com/dawnlabs/carbon)
 8. A React + Apollo + GraphQL GitHub Client [rwieruch/react-graphql-github-apollo](https://github.com/rwieruch/react-graphql-github-apollo)
+9. A sample React Redux CRUD app [rajaraodv/react-redux-blog](https://github.com/rajaraodv/react-redux-blog)
 
 Useful components:
 1. Admin template [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE)
