@@ -59,4 +59,4 @@ Server Sider Rendering:
 2. Create Next.js apps in one command [segmentio/create-next-app](https://github.com/segmentio/create-next-app)
 
 Best Practice:
-1. [Developing React Redux Apps In Salesforce’s Visualforce](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app7fe0b8943d0f)
+1. [Developing React Redux Apps In Salesforce’s Visualforce](https://medium.com/@rajaraodv/developing-react-redux-apps-in-salesforce-s-visualforce-3ad7be560d1c)
