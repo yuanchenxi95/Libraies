@@ -4,3 +4,6 @@
 
 style guide
 1. JavaScript Style Guide, with linter & automatic code fixer [standard/standard](https://github.com/standard/standard)
+
+Articals
+1. [Ensure Required ENV Variables Are Set in Node.js](http://vancelucas.com/blog/ensure-required-env-variables-are-set-in-node-js/)
