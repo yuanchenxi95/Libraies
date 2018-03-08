@@ -10,3 +10,6 @@ Boilerplate
 
 Articals
 1. [Ensure Required ENV Variables Are Set in Node.js](http://vancelucas.com/blog/ensure-required-env-variables-are-set-in-node-js/)
+
+Machine Learnings
+1. Differential Programming in JavaScript. [propelml/propel](https://github.com/propelml/propel)
