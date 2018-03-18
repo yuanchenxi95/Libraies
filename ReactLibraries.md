@@ -44,6 +44,7 @@ Redux:
 
 Sketch:
 1. render React components to Sketch [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp)
+2. Create graphics with a hand-drawn, sketchy, appearance [pshihn/rough](https://github.com/pshihn/rough)
 
 Design:
 1. React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders. [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader)
