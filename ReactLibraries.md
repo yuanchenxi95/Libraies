@@ -53,6 +53,9 @@ Design:
 4. Medium.com style image zoom for React [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
 5. A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page[kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)
 
+Data Visualization:
+1. Beautiful chart for data visualization[nhnent/tui.chart](https://github.com/nhnent/tui.chart)
+
 React Component Syntax Omptimization:
 1. Tiny helper around Reacts new context API [drcmda/react-contextual](https://github.com/drcmda/react-contextual)
 
