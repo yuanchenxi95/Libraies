@@ -53,6 +53,7 @@ Design:
 4. Medium.com style image zoom for React [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
 5. A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page[kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)
 6. Elastic UI Framework  [elastic/eui](https://github.com/elastic/eui)
+7. A simple javascript utility for conditionally joining classNames together [JedWatson/classnames](https://github.com/JedWatson/classnames)
 
 Data Visualization:
 1. Beautiful chart for data visualization[nhnent/tui.chart](https://github.com/nhnent/tui.chart)
