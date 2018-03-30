@@ -61,6 +61,7 @@ Design:
 6. A simple javascript utility for conditionally joining classNames together [JedWatson/classnames](https://github.com/JedWatson/classnames)
 7. morph your svg component one into another other [gorangajic/react-svg-morph](https://github.com/gorangajic/react-svg-morph/)
 8. A configurable React component wrapper around CountUp.js [glennreyes/react-countup](https://github.com/glennreyes/react-countup)
+9. ⚛️ React UI component library & design system, built with styled-components and styled-system. [jxnblk/rebass](https://github.com/jxnblk/rebass)
 
 Data Visualization:
 1. Beautiful chart for data visualization[nhnent/tui.chart](https://github.com/nhnent/tui.chart)
