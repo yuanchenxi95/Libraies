@@ -11,15 +11,21 @@ Example:
 
 Useful components:
 1. Admin template [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE)
+2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
+3. 🔎🖼 Medium zoom on your images in vanilla JavaScript[francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom)
+
+
+Higher Order Components Utility:
+1. A React utility belt for function components and higher-order components.[Recompose](https://github.com/acdlite/recompose)
+2. ⚛ A set of React higher-order components utilities. Drop-in replacement for recompose. [neoziro/recompact](https://github.com/neoziro/recompact)
 
 Libraries:
-1. A React utility belt for function components and higher-order components.[Recompose](https://github.com/acdlite/recompose)
-2. [react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap) How to wrap component
-3. [gorangajic/react-icons](https://github.com/gorangajic/react-icons)
-4. Publish files to a gh-pages branch on GitHub [gh-pages](https://github.com/tschaub/gh-pages)
-5. Multiple file upload plugin with image previews, drag and drop, progress bars. [fine-uploader](https://github.com/FineUploader/fine-uploader)
-6. High performance <canvas> rendering for React components [react-canvas](https://github.com/Flipboard/react-canvas)
-7. HEML is an open source markup language for building responsive email. [SparkPost/heml](https://github.com/SparkPost/heml)
+1. [react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap) How to wrap component
+2. [gorangajic/react-icons](https://github.com/gorangajic/react-icons)
+3. Publish files to a gh-pages branch on GitHub [gh-pages](https://github.com/tschaub/gh-pages)
+4. Multiple file upload plugin with image previews, drag and drop, progress bars. [fine-uploader](https://github.com/FineUploader/fine-uploader)
+5. High performance <canvas> rendering for React components [react-canvas](https://github.com/Flipboard/react-canvas)
+. HEML is an open source markup language for building responsive email. [SparkPost/heml](https://github.com/SparkPost/heml)
 
 Performance:
 1. Selector library for Redux [reactjs/reselect](https://github.com/reactjs/reselect)
@@ -48,15 +54,13 @@ Sketch:
 
 Design:
 1. React component that uses SVG to create a collection of loaders which simulates the structure of the content that will be loaded, similar to Facebook cards loaders. [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader)
-2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
-3. The next open source file uploader for web browsers [transloadit/uppy](https://github.com/transloadit/uppy)
-4. Medium.com style image zoom for React [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
-5. A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page[kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)
-6. Elastic UI Framework  [elastic/eui](https://github.com/elastic/eui)
-7. A simple javascript utility for conditionally joining classNames together [JedWatson/classnames](https://github.com/JedWatson/classnames)
-8. morph your svg component one into another other [gorangajic/react-svg-morph](https://github.com/gorangajic/react-svg-morph/)
-9. A configurable React component wrapper around CountUp.js [glennreyes/react-countup](https://github.com/glennreyes/react-countup)
-10. 🔎🖼 Medium zoom on your images in vanilla JavaScript[francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom)
+2. The next open source file uploader for web browsers [transloadit/uppy](https://github.com/transloadit/uppy)
+3. Medium.com style image zoom for React [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom)
+4. A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page[kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js)
+5. Elastic UI Framework  [elastic/eui](https://github.com/elastic/eui)
+6. A simple javascript utility for conditionally joining classNames together [JedWatson/classnames](https://github.com/JedWatson/classnames)
+7. morph your svg component one into another other [gorangajic/react-svg-morph](https://github.com/gorangajic/react-svg-morph/)
+8. A configurable React component wrapper around CountUp.js [glennreyes/react-countup](https://github.com/glennreyes/react-countup)
 
 Data Visualization:
 1. Beautiful chart for data visualization[nhnent/tui.chart](https://github.com/nhnent/tui.chart)
