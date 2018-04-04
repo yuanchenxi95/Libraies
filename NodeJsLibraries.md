@@ -13,3 +13,6 @@ Articals
 
 Machine Learnings
 1. Differential Programming in JavaScript. [propelml/propel](https://github.com/propelml/propel)
+
+Sample Project
+1. Simple, powerful online communities [withspectrum/spectrum](https://github.com/withspectrum/spectrum)
