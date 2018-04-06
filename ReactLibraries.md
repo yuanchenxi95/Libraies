@@ -36,6 +36,7 @@ Fonts:
 
 Style:
 1. Layout Components for React based on Flexbox [rofrischmann/react-layout-components](https://github.com/rofrischmann/react-layout-components)
+2. Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress [styled-components/styled-components](https://github.com/styled-components/styled-components)
 
 Code Style Guide:
 1. React patterns, techniques, tips and tricks [vasanthk/react-bits](https://github.com/vasanthk/react-bits)
