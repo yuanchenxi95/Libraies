@@ -16,3 +16,6 @@ Machine Learnings
 
 Sample Project
 1. Simple, powerful online communities [withspectrum/spectrum](https://github.com/withspectrum/spectrum)
+
+Role Based Access Control
+1. Access control lists for node applications [OptimalBits/node_acl](https://github.com/OptimalBits/node_acl)
