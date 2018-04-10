@@ -64,6 +64,7 @@ Design:
 8. A configurable React component wrapper around CountUp.js [glennreyes/react-countup](https://github.com/glennreyes/react-countup)
 9. ⚛️ React UI component library & design system, built with styled-components and styled-system. [jxnblk/rebass](https://github.com/jxnblk/rebass)
 10. Tabler is free and open-source HTML Dashboard Theme built on Bootstrap 4[tabler/tabler](https://github.com/tabler/tabler)
+11. Spectre.css - a Lightweight, Responsive and Modern CSS Framework[picturepan2/spectre](https://github.com/picturepan2/spectre)
 
 Data Visualization:
 1. Beautiful chart for data visualization[nhnent/tui.chart](https://github.com/nhnent/tui.chart)
