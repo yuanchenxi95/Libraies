@@ -14,6 +14,8 @@ Useful components:
 2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
 3. 🔎🖼 Medium zoom on your images in vanilla JavaScript[francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom)
 
+Form Builder:
+1. A React component for building Web forms from JSON Schema. [mozilla-services/react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
 
 Higher Order Components Utility:
 1. A React utility belt for function components and higher-order components.[Recompose](https://github.com/acdlite/recompose)
