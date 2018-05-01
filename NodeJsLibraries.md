@@ -19,3 +19,6 @@ Sample Project
 
 Role Based Access Control
 1. Access control lists for node applications [OptimalBits/node_acl](https://github.com/OptimalBits/node_acl)
+
+PDF Libraries
+1. Create PDF documents using web technologies [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed)
