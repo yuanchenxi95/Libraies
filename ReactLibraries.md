@@ -67,6 +67,7 @@ Design:
 9. ⚛️ React UI component library & design system, built with styled-components and styled-system. [jxnblk/rebass](https://github.com/jxnblk/rebass)
 10. Tabler is free and open-source HTML Dashboard Theme built on Bootstrap 4[tabler/tabler](https://github.com/tabler/tabler)
 11. Spectre.css - a Lightweight, Responsive and Modern CSS Framework[picturepan2/spectre](https://github.com/picturepan2/spectre)
+12. Build modern apps using web components [Polymer/polymer](https://www.polymer-project.org/)
 
 Static Site Generator:
 1. A progressive static site generator for React [nozzle/react-static](https://github.com/nozzle/react-static)
