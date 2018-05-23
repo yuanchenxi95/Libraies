@@ -12,3 +12,6 @@ Hotkey:
 
 UI Dev and Testing:
 1. Interactive UI component dev & test: React, React Native, Vue, Angular [storybooks/storybook](https://github.com/storybooks/storybook)
+
+Algorithm:
+1. Algorithms and data structures implemented in JavaScript with explanations and links to further readings[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
