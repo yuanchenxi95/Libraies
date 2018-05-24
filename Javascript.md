@@ -15,3 +15,6 @@ UI Dev and Testing:
 
 Algorithm:
 1. Algorithms and data structures implemented in JavaScript with explanations and links to further readings[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+Documentation:
+1. Modern documentation format and toolchain using Git and Markdown[GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)
