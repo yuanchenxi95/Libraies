@@ -69,6 +69,7 @@ Design:
 11. Spectre.css - a Lightweight, Responsive and Modern CSS Framework[picturepan2/spectre](https://github.com/picturepan2/spectre)
 12. Build modern apps using web components [Polymer/polymer](https://www.polymer-project.org/)
 13. Garden React components [zendeskgarden/react-components](https://github.com/zendeskgarden/react-components)
+14. Collection of elements that appear hand drawn. Great for wireframes.[wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)
 
 Static Site Generator:
 1. A progressive static site generator for React [nozzle/react-static](https://github.com/nozzle/react-static)
