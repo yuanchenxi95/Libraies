@@ -2,3 +2,5 @@
   集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、
   存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企
   业打造全方位J2EE企业级开发解决方案 [shuzheng/zheng](https://github.com/shuzheng/zheng)
+
+2. [postlight/awesome-cms](https://github.com/postlight/awesome-cms)
