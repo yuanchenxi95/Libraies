@@ -15,6 +15,7 @@ Useful components:
 1. Admin template [almasaeed2010/AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 2. A Select control built with and for React JS [JedWatson/react-select](https://github.com/JedWatson/react-select)
 3. 🔎🖼 Medium zoom on your images in vanilla JavaScript[francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom)
+4. An Almost Ideal React Image Component [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
 
 Form Builder:
 1. A React component for building Web forms from JSON Schema. [mozilla-services/react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
