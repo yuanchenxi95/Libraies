@@ -21,3 +21,6 @@ Documentation:
 
 Testing:
 1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 [YMFE/yapi](https://github.com/YMFE/yapi)
+
+Pack:
+1. A JavaScript bundle optimizer. [facebook/prepack](https://github.com/facebook/prepack)
