@@ -6,6 +6,9 @@
 style guide
 1. JavaScript Style Guide, with linter & automatic code fixer [standard/standard](https://github.com/standard/standard)
 
+Node guide
+1. Nodejs学习笔记以及经验总结，公众号"程序猿小卡" [chyingp/nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide)
+
 Boilerplate
 1. A simple demo app using express, mongoose, passport for beginners [madhums/node-express-mongoose-demo](https://github.com/madhums/node-express-mongoose-demo)
 
