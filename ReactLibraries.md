@@ -73,6 +73,7 @@ Design:
 12. Build modern apps using web components [Polymer/polymer](https://www.polymer-project.org/)
 13. Garden React components [zendeskgarden/react-components](https://github.com/zendeskgarden/react-components)
 14. Collection of elements that appear hand drawn. Great for wireframes.[wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)
+15. A Graph Visualization Framework in JavaScript [antvis/g6](https://github.com/antvis/g6)
 
 Static Site Generator:
 1. A progressive static site generator for React [nozzle/react-static](https://github.com/nozzle/react-static)
