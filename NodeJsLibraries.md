@@ -26,3 +26,6 @@ Role Based Access Control
 
 PDF Libraries
 1. Create PDF documents using web technologies [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed)
+
+Validation
+1. A joi validation middleware for Express. [arb/celebrate](https://github.com/arb/celebrate)
