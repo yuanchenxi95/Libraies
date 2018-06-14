@@ -21,6 +21,7 @@ Documentation:
 
 Testing:
 1. YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 [YMFE/yapi](https://github.com/YMFE/yapi)
+2. Record, Replay, and Stub HTTP Interactions. [Netflix/pollyjs](https://github.com/Netflix/pollyjs)
 
 Pack:
 1. A JavaScript bundle optimizer. [facebook/prepack](https://github.com/facebook/prepack)
