@@ -26,3 +26,6 @@ Testing:
 
 Pack:
 1. A JavaScript bundle optimizer. [facebook/prepack](https://github.com/facebook/prepack)
+
+Server Side Render:
+1. A service for server-side rendering your JavaScript views [airbnb/hypernova](https://github.com/airbnb/hypernova)
