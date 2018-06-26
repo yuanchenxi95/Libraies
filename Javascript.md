@@ -29,3 +29,6 @@ Pack:
 
 Server Side Render:
 1. A service for server-side rendering your JavaScript views [airbnb/hypernova](https://github.com/airbnb/hypernova)
+
+Validate:
+1. [ansman/validate.js](https://github.com/ansman/validate.js)
