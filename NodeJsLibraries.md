@@ -2,6 +2,7 @@
 2. [1backend/1backend](https://github.com/1backend/1backend)
 3. LoopBack makes it easy to build modern applications that require complex integrations. [strongloop/loopback](https://github.com/strongloop/loopback/)
 4. [GetStream/Winds](https://github.com/GetStream/Winds)
+5. [Requarks/wiki](https://github.com/Requarks/wiki)
 
 style guide
 1. JavaScript Style Guide, with linter & automatic code fixer [standard/standard](https://github.com/standard/standard)
