@@ -33,6 +33,7 @@ Libraries:
 4. Multiple file upload plugin with image previews, drag and drop, progress bars. [fine-uploader](https://github.com/FineUploader/fine-uploader)
 5. High performance <canvas> rendering for React components [react-canvas](https://github.com/Flipboard/react-canvas)
 . HEML is an open source markup language for building responsive email. [SparkPost/heml](https://github.com/SparkPost/heml)
+6. An Almost Ideal React Image Component  [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
 
 Performance:
 1. Selector library for Redux [reactjs/reselect](https://github.com/reactjs/reselect)
