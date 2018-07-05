@@ -32,3 +32,15 @@ Server Side Render:
 
 Validate:
 1. [ansman/validate.js](https://github.com/ansman/validate.js)
+
+Date:
+1. [date-fns/date-fns](https://github.com/date-fns/date-fns)
+
+function library:
+1. Practical functional Javascript [ramda/ramda](https://github.com/ramda/ramda)
+2. An extensive math library for JavaScript and Node.js [josdejong/mathjs](https://github.com/josdejong/mathjs)
+3. A Javascript library for working with native objects. [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar)
+4. Like Underscore, but lazier [dtao/lazy.js](https://github.com/dtao/lazy.js)
+5. Convenient and dependency free wrapper for working with arrays and objects [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js/)
+6. Chance - Random generator helper for JavaScript [chancejs/chancejs](https://github.com/chancejs/chancejs)
+
