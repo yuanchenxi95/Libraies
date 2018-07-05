@@ -44,3 +44,5 @@ function library:
 5. Convenient and dependency free wrapper for working with arrays and objects [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js/)
 6. Chance - Random generator helper for JavaScript [chancejs/chancejs](https://github.com/chancejs/chancejs)
 
+String Manipulation:
+1. The ultimate JavaScript string library [panzerdp/voca](https://github.com/panzerdp/voca)
