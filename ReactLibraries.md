@@ -98,3 +98,6 @@ Best Practice:
 
 Router:
 1. [reach/router](https://github.com/reach/router)
+
+Code Spliting:
+1. [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable)
