@@ -46,3 +46,6 @@ function library:
 
 String Manipulation:
 1. The ultimate JavaScript string library [panzerdp/voca](https://github.com/panzerdp/voca)
+
+Utils:
+1. Useful utility collection with zero dependencies [liriliri/licia](https://github.com/liriliri/licia)
