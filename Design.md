@@ -4,3 +4,6 @@
 4. [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
 5. Responsive, sortable, filterable and draggable grid layouts [haltu/muuri](https://github.com/haltu/muuri)
 6. Material Dashboard - Open Source Bootstrap 4 Material Design Admin [creativetimofficial/material-dashboard](https://github.com/creativetimofficial/material-dashboard)
+
+Style:
+1. A lightweight toolset for writing styles in JavaScript [styled-components/polished](https://github.com/styled-components/polished)
