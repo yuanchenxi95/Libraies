@@ -85,6 +85,7 @@ Static Site Generator:
 Data Visualization:
 1. Beautiful chart for data visualization[nhnent/tui.chart](https://github.com/nhnent/tui.chart)
 2. kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.[uber/kepler.gl](https://github.com/uber/kepler.gl)
+3. Simple HTML5 Charts using the <canvas> tag [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 
 React Component Syntax Omptimization:
 1. Tiny helper around Reacts new context API [drcmda/react-contextual](https://github.com/drcmda/react-contextual)
