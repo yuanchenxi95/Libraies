@@ -32,6 +32,7 @@ Server Side Render:
 
 Validate:
 1. [ansman/validate.js](https://github.com/ansman/validate.js)
+2. JavaScript fluent validation library. [imbrn/v8n](https://github.com/imbrn/v8n)
 
 Date:
 1. [date-fns/date-fns](https://github.com/date-fns/date-fns)
