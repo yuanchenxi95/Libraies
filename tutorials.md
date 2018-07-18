@@ -1,1 +1,3 @@
 1. Curated list of project-based tutorials [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning)
+
+2. Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
