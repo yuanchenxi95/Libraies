@@ -4,6 +4,9 @@ Schema:
 Git:
 1. A pure JavaScript implementation of git for node and browsers! [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git)
 
+Icons:
+1. SVG icons for popular brands [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
 Log:
 1. 👋 Hackable console logger [klauscfhq/signale](https://github.com/klauscfhq/signale)
 
