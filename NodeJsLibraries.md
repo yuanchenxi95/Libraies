@@ -30,3 +30,6 @@ PDF Libraries
 
 Validation
 1. A joi validation middleware for Express. [arb/celebrate](https://github.com/arb/celebrate)
+
+Debug
+1. ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb)
