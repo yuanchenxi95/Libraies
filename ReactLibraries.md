@@ -79,11 +79,15 @@ Design:
 15. A Graph Visualization Framework in JavaScript [antvis/g6](https://github.com/antvis/g6)
 16. Format input text content when you are typing... [nosir/cleave.js](https://github.com/nosir/cleave.js)
 
+UI frameworks:
+1.  Evergreen React UI Framework by Segment [segmentio/evergreen](https://github.com/segmentio/evergreen)
+
 Static Site Generator:
 1. A progressive static site generator for React [nozzle/react-static](https://github.com/nozzle/react-static)
 
 Data Visualization:
-1. Beautiful chart for data visualization[nhnent/tui.chart](https://github.com/nhnent/tui.chart)
+1. Beautiful chart for data visualization[nhnent/t
+.chart](https://github.com/nhnent/tui.chart)
 2. kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.[uber/kepler.gl](https://github.com/uber/kepler.gl)
 3. Simple HTML5 Charts using the <canvas> tag [chartjs/Chart.js](https://github.com/chartjs/Chart.js)
 
