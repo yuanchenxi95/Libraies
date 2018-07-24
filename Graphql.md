@@ -4,3 +4,5 @@ Example:
 3. Blazing fast, instant GraphQL APIs on Postgres with fine grained access control [hasura/graphql-engine](https://github.com/hasura/graphql-engine)
 4. Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.[PrismLibrary/Prism](https://github.com/PrismLibrary/Prism)
 
+Apollo :
+1. [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
