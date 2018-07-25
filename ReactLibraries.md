@@ -106,3 +106,6 @@ Router:
 
 Code Spliting:
 1. [jamiebuilds/react-loadable](https://github.com/jamiebuilds/react-loadable)
+
+Performance:
+1. The only Front-End Performance Checklist that runs faster than the others [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
