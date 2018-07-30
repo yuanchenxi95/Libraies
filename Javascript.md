@@ -15,6 +15,7 @@ Hotkey:
 
 UI Dev and Testing:
 1. Interactive UI component dev & test: React, React Native, Vue, Angular [storybooks/storybook](https://github.com/storybooks/storybook)
+2. A JavaScript Chart Library [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
 
 Algorithm:
 1. Algorithms and data structures implemented in JavaScript with explanations and links to further readings[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
@@ -53,3 +54,9 @@ String Manipulation:
 
 Utils:
 1. Useful utility collection with zero dependencies [liriliri/licia](https://github.com/liriliri/licia)
+
+Terminal:
+1. Record your terminal and generate animated gif images [faressoft/terminalizer](https://github.com/faressoft/terminalizer)
+
+Presentation:
+1. MDX-based presentation decks [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck)
