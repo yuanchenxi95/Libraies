@@ -6,3 +6,6 @@ Example:
 
 Apollo :
 1. [Authorization in GraphQL](https://blog.apollographql.com/authorization-in-graphql-452b1c402a9)
+
+JS:
+1. curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a JS library [hasura/graphqurl](https://github.com/hasura/graphqurl)
