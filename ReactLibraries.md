@@ -78,6 +78,7 @@ Design:
 14. Collection of elements that appear hand drawn. Great for wireframes.[wiredjs/wired-elements](https://github.com/wiredjs/wired-elements)
 15. A Graph Visualization Framework in JavaScript [antvis/g6](https://github.com/antvis/g6)
 16. Format input text content when you are typing... [nosir/cleave.js](https://github.com/nosir/cleave.js)
+17. React Move 🌀 Beautiful, data-driven animations for React[react-tools/react-move](https://github.com/react-tools/react-move)
 
 UI frameworks:
 1.  Evergreen React UI Framework by Segment [segmentio/evergreen](https://github.com/segmentio/evergreen)
