@@ -60,3 +60,6 @@ Terminal:
 
 Presentation:
 1. MDX-based presentation decks [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck)
+
+Testing:
+1. Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.[checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
