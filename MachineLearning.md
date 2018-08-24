@@ -3,6 +3,7 @@
 3. Neural networks in JavaScript [BrainJS/brain.js](https://github.com/BrainJS/brain.js)
 4. A WebGL accelerated, browser based JavaScript library for training and deploying ML models. [tensorflow/tfjs](https://github.com/tensorflow/tfjs)
 5. Libraries & tools for enabling data-driven user-experiences on the web [guess-js/guess](https://github.com/guess-js/guess)
+6. VIP cheatsheets for Stanford's CS 229 Machine Learning[afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
 NLP:
 1. Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.[sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress)
