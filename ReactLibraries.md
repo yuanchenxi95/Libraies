@@ -19,6 +19,7 @@ Useful components:
 4. An Almost Ideal React Image Component [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
 5. Confetti without the cleanup. [alampros/react-confetti](https://github.com/alampros/react-confetti)
 
+
 Form Builder:
 1. A React component for building Web forms from JSON Schema. [mozilla-services/react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
 
@@ -79,6 +80,7 @@ Design:
 15. A Graph Visualization Framework in JavaScript [antvis/g6](https://github.com/antvis/g6)
 16. Format input text content when you are typing... [nosir/cleave.js](https://github.com/nosir/cleave.js)
 17. React Move 🌀 Beautiful, data-driven animations for React[react-tools/react-move](https://github.com/react-tools/react-move)
+19. React component for scrolling, zooming and highlighting code[pomber/code-surfer](https://github.com/pomber/code-surfer)
 
 UI frameworks:
 1.  Evergreen React UI Framework by Segment [segmentio/evergreen](https://github.com/segmentio/evergreen)
