@@ -63,3 +63,6 @@ Presentation:
 
 Testing:
 1. Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.[checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
+
+Fetch:
+1. Tiny and elegant HTTP client based on the browser Fetch API [sindresorhus/ky](https://github.com/sindresorhus/ky)
