@@ -112,3 +112,6 @@ Code Spliting:
 
 Performance:
 1. The only Front-End Performance Checklist that runs faster than the others [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist)
+
+Blog Template:
+1. Blazing fast site generator for React[gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
