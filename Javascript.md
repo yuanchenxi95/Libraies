@@ -16,6 +16,7 @@ Hotkey:
 UI Dev and Testing:
 1. Interactive UI component dev & test: React, React Native, Vue, Angular [storybooks/storybook](https://github.com/storybooks/storybook)
 2. A JavaScript Chart Library [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)
+3. style as a function of state [emotion-js/emotion](https://github.com/emotion-js/emotion)
 
 Algorithm:
 1. Algorithms and data structures implemented in JavaScript with explanations and links to further readings[trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
