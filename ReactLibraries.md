@@ -19,6 +19,9 @@ Useful components:
 4. An Almost Ideal React Image Component [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
 5. Confetti without the cleanup. [alampros/react-confetti](https://github.com/alampros/react-confetti)
 
+API Generator:
+1. Swagger Editor [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)
+
 
 Form Builder:
 1. A React component for building Web forms from JSON Schema. [mozilla-services/react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form)
