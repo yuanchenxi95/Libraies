@@ -74,3 +74,6 @@ Fetch:
 
 Web Template:
 1. Free and Open source Web Builder Framework. Next generation tool for building templates without coding [artf/grapesjs](https://github.com/artf/grapesjs)
+
+Documentation:
+1. A fast, simple & powerful blog framework, powered by Node.js. [hexojs/hexo](https://github.com/hexojs/hexo)
