@@ -36,3 +36,6 @@ Validation
 
 Debug
 1. ndb is an improved debugging experience for Node.js, enabled by Chrome DevTools [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb)
+
+Cache:
+1. Simple key-value storage with support for multiple backends [lukechilds/keyv](https://github.com/lukechilds/keyv)
