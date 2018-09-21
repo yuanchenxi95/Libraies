@@ -68,6 +68,7 @@ Testing:
 
 Fetch:
 1. Tiny and elegant HTTP client based on the browser Fetch API [sindresorhus/ky](https://github.com/sindresorhus/ky)
+2. Simplified HTTP requests [sindresorhus/got](https://github.com/sindresorhus/got)
 
 3d:
 1. JavaScript 3D library [mrdoob/three.js](https://github.com/mrdoob/three.js)
