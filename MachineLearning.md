@@ -10,3 +10,4 @@ NLP:
 
 Tutorial:
 1. [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+2. Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions. [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)
