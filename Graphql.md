@@ -9,3 +9,6 @@ Apollo :
 
 JS:
 1. curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a JS library [hasura/graphqurl](https://github.com/hasura/graphqurl)
+
+Editor:
+1. GraphQL editor - visual node editor for GraphQL [slothking-online/graphql-editor](https://github.com/slothking-online/graphql-editor)
