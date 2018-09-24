@@ -12,3 +12,6 @@ JS:
 
 Editor:
 1. GraphQL editor - visual node editor for GraphQL [slothking-online/graphql-editor](https://github.com/slothking-online/graphql-editor)
+
+Authentication:
+1. [Handling authentication in GraphQL – Part 3: Auth0](https://blog.pusher.com/handling-authentication-in-graphql-auth0/)
