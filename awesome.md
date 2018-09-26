@@ -7,3 +7,5 @@
 4. Papers with code. Sorted by stars. Updated weekly. [zziz/pwc](https://github.com/zziz/pwc)
 
 5. Awesome Public Datasets Core [awesomedata/apd-core](https://github.com/awesomedata/apd-core)
+
+6. A collection of open and closed source Content Management Systems (CMS) for your perusal.[postlight/awesome-cms](https://github.com/postlight/awesome-cms)
