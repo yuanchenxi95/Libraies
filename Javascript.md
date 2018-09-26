@@ -81,3 +81,6 @@ Documentation:
 
 Database:
 1. Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)
+
+Grammer:
+1. Catch insensitive, inconsiderate writing [get-alex/alex](https://github.com/get-alex/alex)
