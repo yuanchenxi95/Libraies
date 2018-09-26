@@ -78,3 +78,6 @@ Web Template:
 
 Documentation:
 1. A fast, simple & powerful blog framework, powered by Node.js. [hexojs/hexo](https://github.com/hexojs/hexo)
+
+Database:
+1. Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast [Nozbe/WatermelonDB](https://github.com/Nozbe/WatermelonDB)
