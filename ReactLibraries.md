@@ -84,6 +84,7 @@ Design:
 16. Format input text content when you are typing... [nosir/cleave.js](https://github.com/nosir/cleave.js)
 17. React Move 🌀 Beautiful, data-driven animations for React[react-tools/react-move](https://github.com/react-tools/react-move)
 19. React component for scrolling, zooming and highlighting code[pomber/code-surfer](https://github.com/pomber/code-surfer)
+20. Collection of general React components used in buildo projects. [buildo/react-components](https://github.com/buildo/react-components)
 
 UI frameworks:
 1.  Evergreen React UI Framework by Segment [segmentio/evergreen](https://github.com/segmentio/evergreen)
