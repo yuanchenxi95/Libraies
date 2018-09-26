@@ -84,3 +84,6 @@ Database:
 
 Grammer:
 1. Catch insensitive, inconsiderate writing [get-alex/alex](https://github.com/get-alex/alex)
+
+Code Color:
+1. Javascript syntax highlighter [highlightjs/highlight.js](https://highlightjs.org/)
