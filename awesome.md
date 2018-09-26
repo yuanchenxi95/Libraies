@@ -5,3 +5,5 @@
 3. A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 
 4. Papers with code. Sorted by stars. Updated weekly. [zziz/pwc](https://github.com/zziz/pwc)
+
+5. Awesome Public Datasets Core [awesomedata/apd-core](https://github.com/awesomedata/apd-core)
