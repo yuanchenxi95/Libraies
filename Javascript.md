@@ -87,3 +87,6 @@ Grammer:
 
 Code Color:
 1. Javascript syntax highlighter [highlightjs/highlight.js](https://highlightjs.org/)
+
+Zip:
+1. Create, read and edit .zip files with Javascript [Stuk/jszip](https://github.com/Stuk/jszip)
