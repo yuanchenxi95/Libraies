@@ -119,3 +119,6 @@ Performance:
 
 Blog Template:
 1. Blazing fast site generator for React[gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+
+i18n:
+1. Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.[yahoo/react-intl](https://github.com/yahoo/react-intl)
