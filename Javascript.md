@@ -90,3 +90,9 @@ Code Color:
 
 Zip:
 1. Create, read and edit .zip files with Javascript [Stuk/jszip](https://github.com/Stuk/jszip)
+
+Apify SDK:
+1. Apify SDK: The scalable web crawling and scraping library for JavaScript. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer[apifytech/apify-js](https://github.com/apifytech/apify-js)
+
+Text Editor:
+1. A rich text editor for everyday writing [basecamp/trix](https://github.com/basecamp/trix)
