@@ -7,6 +7,9 @@ Git:
 Icons:
 1. SVG icons for popular brands [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 
+UI Toolkit:
+1. A powerful toolkit for building websites with beautiful design [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js)
+
 Log:
 1. 👋 Hackable console logger [klauscfhq/signale](https://github.com/klauscfhq/signale)
 
