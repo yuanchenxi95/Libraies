@@ -18,6 +18,7 @@ Useful components:
 3. 🔎🖼 Medium zoom on your images in vanilla JavaScript[francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom)
 4. An Almost Ideal React Image Component [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
 5. Confetti without the cleanup. [alampros/react-confetti](https://github.com/alampros/react-confetti)
+6. Collection of useful React components [streamich/libreact](https://github.com/streamich/libreact)
 
 API Generator:
 1. Swagger Editor [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)
