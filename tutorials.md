@@ -5,3 +5,5 @@
 3. [CS 124: From Languages to Information](https://web.stanford.edu/class/cs124/)
 
 4. [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+
+5. [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
