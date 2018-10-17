@@ -9,3 +9,5 @@
 5. Awesome Public Datasets Core [awesomedata/apd-core](https://github.com/awesomedata/apd-core)
 
 6. A collection of open and closed source Content Management Systems (CMS) for your perusal.[postlight/awesome-cms](https://github.com/postlight/awesome-cms)
+
+7. 🔗 A curated list of awesome Parcel resources, libraries, tools and boilerplates [parcel-bundler/awesome-parcel](https://github.com/parcel-bundler/awesome-parcel)
