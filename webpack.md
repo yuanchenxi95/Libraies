@@ -1,0 +1,1 @@
+1. Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap [webpack-contrib/webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer)
