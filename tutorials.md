@@ -7,3 +7,5 @@
 4. [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 
 5. [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+
+6. [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io)
