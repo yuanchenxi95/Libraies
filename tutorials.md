@@ -9,3 +9,5 @@
 5. [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 
 6. [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io)
+
+7. Simple and ready-to-use tutorials for TensorFlow [open-source-for-science/TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
