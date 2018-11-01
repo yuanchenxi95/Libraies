@@ -39,3 +39,6 @@ Debug
 
 Cache:
 1. Simple key-value storage with support for multiple backends [lukechilds/keyv](https://github.com/lukechilds/keyv)
+
+Web rendering surface:
+1. Web rendering surface for Node applications [GoogleChromeLabs/carlo](https://github.com/GoogleChromeLabs/carlo)
