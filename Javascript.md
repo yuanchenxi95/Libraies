@@ -13,6 +13,9 @@ UI Toolkit:
 Log:
 1. 👋 Hackable console logger [klauscfhq/signale](https://github.com/klauscfhq/signale)
 
+Audio:
+1. Javascript audio library for the modern web. [goldfire/howler.js](https://github.com/goldfire/howler.js)
+
 Hotkey:
 1. ➷ A robust Javascript library for capturing keyboard input. It has no dependencies. [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys)
 
