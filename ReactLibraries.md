@@ -20,6 +20,7 @@ Useful components:
 5. Confetti without the cleanup. [alampros/react-confetti](https://github.com/alampros/react-confetti)
 6. Collection of useful React components [streamich/libreact](https://github.com/streamich/libreact)
 7. Web API's turned into React Hooks and Suspense-friendly React components. #useThePlatform [palmerhq/the-platform](https://github.com/palmerhq/the-platform)
+8. [bvaughn/react-virtualized](https://github.com/bvaughn/react-virtualized)
 
 API Generator:
 1. Swagger Editor [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor)
